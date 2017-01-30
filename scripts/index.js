@@ -1,7 +1,6 @@
 'use strict'
 
 module.exports = {
-  'maccyber/testhook': 'hello.sh parameter1 parameter2', // namespace/repo_name : script <parameters>
-  'maccyber/maccyber.io': 'maccyber.io.sh',
-  'fail': 'fail.sh'
+  // namespace/repo_name : script <parameters>
+  'philbot/youtube-comment-scraper2.0': 'youtube-comment-scraper2.0.sh'
 }
